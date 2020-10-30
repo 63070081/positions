@@ -12,15 +12,17 @@
             height: 200px;
         }
         </style>
-        <img src="https://pbs.twimg.com/media/EUa_vmbUMAAIuKf?format=jpg&name=medium" class="thumbnail" title="Kim Minju" alt="Oneiric Diary" />
+        <img src="https://cf.shopee.co.th/file/e151e69128d7ddbb473f09976c178239" class="thumbnail" title="Kim Minju" alt="Oneiric Diary" />
         <img src="https://cms.dmpcdn.com/musicarticle/2020/06/04/511d1020-a638-11ea-8434-31a8ef9fad76_original.jpg" class="thumbnail" alt="Oneiric Diary" />
         <a href="http://iz-one.co.kr/">Oneiric Diary</a>
 
 
         <h2> เรื่องตลกก </h2>
-        <p></p>
-        <p>34+35</p>
-        <p>motive</p>
+        <p>เพิ่งซื้อรถมาใหม่ เลยให้ไปฝึกหัดขับที่โรงเรียน</p>
+        <p>ขับๆอยู่ดีๆ ครูบอกว่าให้ผ่อนคันเร่งด้วย</p>
+        <p>กลับมาบ้าน เรานี่เครียดเลย....</p>
+        <p>นี่ต้องผ่อนรถแล้ว ยังต้องผ่อนคันเร่งอีกหรอ</p>
+        <p>ไม่มีตังค์แล้วเนี่ย หมดตัว TT</p>
         
     
     </body>
